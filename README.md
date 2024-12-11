@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Rental Cars Website
 
-## Getting Started
+This project is a **Rental Cars Website** built using **React JS**, **Next JS**, **Tailwind CSS**, **Shadcn**, **TypeScript**, **Prisma**, **Stripe**, and **Framer Motion**. The website allows users to register, view available cars for rent, see their details and prices, choose rental durations, and make payments. Additionally, the business/admin side of the platform allows the admin to manage and list all cars available for rent.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **User Registration**: Users can create an account and log in to rent cars.
+- **Car Listings**: Admins can add cars to the platform with details such as price, statistics, and availability.
+- **Car Details**: Users can view detailed information about each car, including rental price, stats, and other relevant data.
+- **Rental Duration Selection**: Users can select the time period for renting a car.
+- **Payment Integration**: The website integrates **Stripe** for handling payments securely.
+- **Admin Panel**: Admins can manage and list cars, set prices, and monitor rentals.
+- **Smooth Animations**: Framer Motion is used for smooth page transitions and animations.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies Used
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **React JS**: Frontend JavaScript library for building user interfaces.
+- **Next JS**: React framework for server-side rendering and static site generation.
+- **Tailwind CSS**: Utility-first CSS framework for custom, responsive styling.
+- **Shadcn**: Component library used for building interactive and accessible UI components.
+- **TypeScript**: Typed superset of JavaScript that improves code quality and maintainability.
+- **Prisma**: ORM for connecting to the database and managing data models.
+- **Stripe**: Payment gateway integration for secure transactions.
+- **Framer Motion**: Library for adding animations and transitions to React components.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Images
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+![image](https://github.com/user-attachments/assets/b2c7b846-cdf2-4a01-bcbb-a3ce798e37f6)![image](https://github.com/user-attachments/assets/c907bf4b-4809-4040-a6c2-f898df8637ed)
+![image](https://github.com/user-attachments/assets/290b70db-8cbc-4eb0-a350-252fde24560e)
