@@ -25,5 +25,5 @@ This project is a **Rental Cars Website** built using **React JS**, **Next JS**,
 
 ## Images
 
-![image](https://github.com/user-attachments/assets/b2c7b846-cdf2-4a01-bcbb-a3ce798e37f6)![image](https://github.com/user-attachments/assets/c907bf4b-4809-4040-a6c2-f898df8637ed)
+![image](https://github.com/user-attachments/assets/b2c7b846-cdf2-4a01-bcbb-a3ce798e37f6)
 ![image](https://github.com/user-attachments/assets/290b70db-8cbc-4eb0-a350-252fde24560e)
